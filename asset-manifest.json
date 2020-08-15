@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/RohitPortfolio/static/css/main.051650a8.chunk.css",
+    "main.js": "/RohitPortfolio/static/js/main.d0a9e9e5.chunk.js",
+    "main.js.map": "/RohitPortfolio/static/js/main.d0a9e9e5.chunk.js.map",
+    "runtime-main.js": "/RohitPortfolio/static/js/runtime-main.30e3a2de.js",
+    "runtime-main.js.map": "/RohitPortfolio/static/js/runtime-main.30e3a2de.js.map",
+    "static/css/2.e4346227.chunk.css": "/RohitPortfolio/static/css/2.e4346227.chunk.css",
+    "static/js/2.c2c237fe.chunk.js": "/RohitPortfolio/static/js/2.c2c237fe.chunk.js",
+    "static/js/2.c2c237fe.chunk.js.map": "/RohitPortfolio/static/js/2.c2c237fe.chunk.js.map",
+    "index.html": "/RohitPortfolio/index.html",
+    "precache-manifest.b72a8b84d9c697d8b576719020aaedbf.js": "/RohitPortfolio/precache-manifest.b72a8b84d9c697d8b576719020aaedbf.js",
+    "service-worker.js": "/RohitPortfolio/service-worker.js",
+    "static/css/2.e4346227.chunk.css.map": "/RohitPortfolio/static/css/2.e4346227.chunk.css.map",
+    "static/css/main.051650a8.chunk.css.map": "/RohitPortfolio/static/css/main.051650a8.chunk.css.map",
+    "static/js/2.c2c237fe.chunk.js.LICENSE.txt": "/RohitPortfolio/static/js/2.c2c237fe.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/RohitPortfolio/static/media/logo.5d5d9eef.svg",
+    "static/media/pp.jpg": "/RohitPortfolio/static/media/pp.bbd9d6bf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30e3a2de.js",
+    "static/css/2.e4346227.chunk.css",
+    "static/js/2.c2c237fe.chunk.js",
+    "static/css/main.051650a8.chunk.css",
+    "static/js/main.d0a9e9e5.chunk.js"
+  ]
+}
