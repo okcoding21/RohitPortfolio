@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/RohitPortfolio/static/css/main.051650a8.chunk.css",
-    "main.js": "/RohitPortfolio/static/js/main.e3c6d704.chunk.js",
-    "main.js.map": "/RohitPortfolio/static/js/main.e3c6d704.chunk.js.map",
+    "main.css": "/RohitPortfolio/static/css/main.b7aef61f.chunk.css",
+    "main.js": "/RohitPortfolio/static/js/main.1f0dff19.chunk.js",
+    "main.js.map": "/RohitPortfolio/static/js/main.1f0dff19.chunk.js.map",
     "runtime-main.js": "/RohitPortfolio/static/js/runtime-main.30e3a2de.js",
     "runtime-main.js.map": "/RohitPortfolio/static/js/runtime-main.30e3a2de.js.map",
     "static/css/2.e4346227.chunk.css": "/RohitPortfolio/static/css/2.e4346227.chunk.css",
-    "static/js/2.c2c237fe.chunk.js": "/RohitPortfolio/static/js/2.c2c237fe.chunk.js",
-    "static/js/2.c2c237fe.chunk.js.map": "/RohitPortfolio/static/js/2.c2c237fe.chunk.js.map",
+    "static/js/2.16104298.chunk.js": "/RohitPortfolio/static/js/2.16104298.chunk.js",
+    "static/js/2.16104298.chunk.js.map": "/RohitPortfolio/static/js/2.16104298.chunk.js.map",
     "index.html": "/RohitPortfolio/index.html",
-    "precache-manifest.19579c57c29b3fedacc332e2c838ed18.js": "/RohitPortfolio/precache-manifest.19579c57c29b3fedacc332e2c838ed18.js",
+    "precache-manifest.ed9d50812c1fb74c8bbf93e85508434f.js": "/RohitPortfolio/precache-manifest.ed9d50812c1fb74c8bbf93e85508434f.js",
     "service-worker.js": "/RohitPortfolio/service-worker.js",
     "static/css/2.e4346227.chunk.css.map": "/RohitPortfolio/static/css/2.e4346227.chunk.css.map",
-    "static/css/main.051650a8.chunk.css.map": "/RohitPortfolio/static/css/main.051650a8.chunk.css.map",
-    "static/js/2.c2c237fe.chunk.js.LICENSE.txt": "/RohitPortfolio/static/js/2.c2c237fe.chunk.js.LICENSE.txt",
+    "static/css/main.b7aef61f.chunk.css.map": "/RohitPortfolio/static/css/main.b7aef61f.chunk.css.map",
+    "static/js/2.16104298.chunk.js.LICENSE.txt": "/RohitPortfolio/static/js/2.16104298.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/RohitPortfolio/static/media/logo.5d5d9eef.svg",
     "static/media/pp.jpg": "/RohitPortfolio/static/media/pp.bbd9d6bf.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.30e3a2de.js",
     "static/css/2.e4346227.chunk.css",
-    "static/js/2.c2c237fe.chunk.js",
-    "static/css/main.051650a8.chunk.css",
-    "static/js/main.e3c6d704.chunk.js"
+    "static/js/2.16104298.chunk.js",
+    "static/css/main.b7aef61f.chunk.css",
+    "static/js/main.1f0dff19.chunk.js"
   ]
 }
